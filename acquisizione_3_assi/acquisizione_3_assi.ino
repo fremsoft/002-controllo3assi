@@ -11,9 +11,12 @@
  * permette di registrare le posizioni (con pressione veloce) 
  * e di avviare la movimentazione (con pressione prolungata)
  *  
+ * Visualizza il progetto integrale su YouTube: 
+ * https://youtu.be/erMj7Eb4CmY
+ * 
  */
  
- #define     MS1           2
+#define     MS1           2
 #define     MS2           3
 #define     MS3           4
 

@@ -9,6 +9,9 @@
  * Un pulsante collegato all'ingresso A3 (con pull-up interna)
  * permette di registrare le posizioni (con pressione veloce) 
  * e di avviare la movimentazione (con pressione prolungata)
+ * 
+ * Visualizza il progetto integrale su YouTube: 
+ * https://youtu.be/erMj7Eb4CmY
  *  
  */
 
